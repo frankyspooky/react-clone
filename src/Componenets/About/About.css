@@ -1,0 +1,24 @@
+
+.contain{
+    display: flex;
+    padding-left:12%;
+    padding-right: 10%;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.items{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+h3{
+    padding-bottom: 5px;
+   padding-top: 4px;
+   font-size: 20px;
+}
+p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 17px;
+  
+}

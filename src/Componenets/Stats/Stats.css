@@ -1,0 +1,36 @@
+.our-progress ul {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    padding: 40px;
+    
+}
+.our-progress li{
+    
+    align-items: center;
+    justify-content: space-between;
+    border-right: 1px solid #ededed;
+    padding: 20px;
+}
+
+.our-progress ul li img{
+    margin-bottom: 2px;
+}
+
+.our-progress ul li:last-child{
+    border-radius: none;
+}
+.our-progress h4{
+    
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight:500;
+    line-height: 1;
+}
+.our-progress ul li h2{
+    margin:0;
+    font-size: 40px;
+    font-weight:700;
+    line-height: 1.5;
+    color: #198754;
+}

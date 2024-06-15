@@ -1,0 +1,11 @@
+.socials{
+    padding: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+.socials img{
+    max-width: 100%;
+    height: auto;
+}
