@@ -10,7 +10,7 @@ import work from '../../assets/Work.png'
 
 const About = () => {
   return (
-    <div className='contain'>
+    <div className='about'>
       <div className='items'> 
         <img src={activity} alt="" />
         <h3>Grow your buisness catalogue</h3>

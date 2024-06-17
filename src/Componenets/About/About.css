@@ -1,5 +1,5 @@
 
-.contain{
+.about{
     display: flex;
     padding-left:12%;
     padding-right: 10%;
@@ -21,4 +21,13 @@ p{
     padding-bottom: 5px;
     font-size: 17px;
   
+}
+@media(max-width:650px){
+    .about{
+        flex-direction: column;
+    }
+    .items{
+        flex-basis: 100%;
+        margin: 20px;
+    }
 }

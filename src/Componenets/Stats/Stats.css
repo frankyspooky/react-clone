@@ -34,3 +34,13 @@
     line-height: 1.5;
     color: #198754;
 }
+
+@media(max-width:650px){
+    .contain{
+        flex-direction: column;
+    }
+    .our-progress{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}

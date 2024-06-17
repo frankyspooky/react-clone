@@ -7,7 +7,7 @@ import raise from '../../assets/raise.png'
 
 const Stats = () => {
   return (
-    <div className='contain'>
+    <div className='about'>
       <div className="our-progress">
         <ul>
           <li>
