@@ -67,3 +67,9 @@ a{
   background: #0f2a3d;
   color:#fff;
  }
+ @media screen and(max-width:1199px) {
+  .container{
+    max-width: 1140px;
+  }
+  
+ }
