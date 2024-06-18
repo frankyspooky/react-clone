@@ -21,7 +21,7 @@ const App = () => {
       <Title subTitle='About us' title='What we do ' statement='we provide the perfect solution to your buisness growth'/>
       <About/>
       <Stats/>
-      <Title subTitle='Our Portfolio'  statement='we provide the perfect solution to your buisness growth'/>
+      <Title subTitle='Portfolio'  statement='we provide the perfect solution to your buisness growth'/>
       <Portfolio/>
       <Title subTitle='Testimonials' title='see what our customers say about us'/>
       <Testimonials/>

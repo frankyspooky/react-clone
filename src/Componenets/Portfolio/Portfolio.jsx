@@ -7,7 +7,7 @@ import port_4  from '../../assets/portfolio-4.png'
 
 const Portfolio = () => {
   return (
-    <div className='port container'>
+    <div className='port container' id='portfolio'>
         <div className="portfolio-wrapper">
             <img src={port_1} alt="" />
             <h4> Digital Marketing Agency website</h4>
