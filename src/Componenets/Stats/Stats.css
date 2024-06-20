@@ -35,8 +35,18 @@
     color: #198754;
 }
 
-@media screen and (max-width:1199px){
-   .about{
+@media screen and (max-width:840px){
+   .our-progress ul{
     padding: 60px 0;
+   flex-direction: column;
+
    }
+}
+
+@media screen and(max-width:992px) {
+    .our-progress{
+        padding: 50px 0;
+    }
+
+    
 }

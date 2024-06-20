@@ -6,6 +6,7 @@
     justify-content: space-around;
     box-sizing: border-box;
 }
+
 .items{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -26,14 +27,7 @@ p{
 @media (max-width:840px){
     .about{
         flex-direction: column;
+        padding: 20px;
     }
-}
-@media(max-width:650px){
-    .about{
-        flex-direction: column;
-    }
-    .items{
-        flex-basis: 100%;
-        margin: 20px;
-    }
+    
 }

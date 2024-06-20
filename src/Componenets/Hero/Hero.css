@@ -29,6 +29,10 @@
     position: relative;
 }
 @media (max-width:850px){
+
+    .hero{
+        flex-direction: column;
+    }
     .hero-text h2{
         font-size: 40px;
     }
@@ -41,7 +45,7 @@
         margin: auto;
     }
     .hero-text p{
-        font-size: 14px;
+        font-size: 18px;
         margin: 15px auto 30px;
 
     }
