@@ -8,6 +8,7 @@ import About from './Componenets/About/About'
 import Stats from './Componenets/Stats/Stats'
 import Portfolio from './Componenets/Portfolio/Portfolio'
 import Testimonials from './Componenets/Testimonials/Testimonials'
+import Contact from './Componenets/Contact/Contact'
 
 
 
@@ -25,6 +26,8 @@ const App = () => {
       <Portfolio/>
       <Title subTitle='Testimonials' title='see what our customers say about us'/>
       <Testimonials/>
+      <Title subTitle='contact us' title='Get in  touch '/>
+      <Contact/>
       </div>
       
    
