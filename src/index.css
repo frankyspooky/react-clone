@@ -68,6 +68,10 @@ a{
   background: #0f2a3d;
   color:#fff;
  }
+
+.btn.dark-btn img{
+  background: #0f2a3d
+}
  @media screen and(max-width:1199px) {
   .container{
     max-width: 1140px;
