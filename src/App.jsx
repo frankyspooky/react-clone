@@ -9,6 +9,7 @@ import Stats from './Componenets/Stats/Stats'
 import Portfolio from './Componenets/Portfolio/Portfolio'
 import Testimonials from './Componenets/Testimonials/Testimonials'
 import Contact from './Componenets/Contact/Contact'
+import Footer from './Componenets/Footer/Footer'
 
 
 
@@ -28,6 +29,7 @@ const App = () => {
       <Testimonials/>
       <Title subTitle='contact us' title='Get in  touch '/>
       <Contact/>
+      <Footer/>
       </div>
       
    
