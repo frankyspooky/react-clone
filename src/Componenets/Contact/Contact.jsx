@@ -44,7 +44,7 @@ const Contact = () => {
     <div className='contact'>
       <div className="contact-col">
         <h3>Send us a message <img src={mail} alt="" /></h3>
-        <p>Feel free to reach out through contact form or find our contact information below. your feedback , questions and suggestions are importat to us as we strive to provide exceptional service  to our university community</p>
+        <p>Feel free to reach out through contact form or find our contact information below. your feedback , questions and suggestions are important to us as we strive to provide exceptional service  to our design community</p>
 
         <ul>
           <li> <img src={mail_2} alt="" />  Contact @fbbidoo004@gmail.com</li>
